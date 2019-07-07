@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Monsters Robots](https://gerardinhoo.github.io/monsters_robots/).
+Live Project Link to [Monsters Robots](https://gerardinhoo.github.io/monsters_robots/).
 
 
 ## Available Scripts
